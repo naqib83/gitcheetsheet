@@ -3,7 +3,7 @@
 1. [Syntax to write in github files - 1](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 2. [Syntax to write in github files - 2](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
-###### To check or see changed-but-not-yet-committed files
+To check or see changed-but-not-yet-committed files
 `git diff --name-only`
 [Useful link](https://stackoverflow.com/questions/5096268/how-to-get-a-list-of-all-files-that-changed-between-two-git-commits)
 

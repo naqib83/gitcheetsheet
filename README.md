@@ -54,6 +54,16 @@
 
 ***
 
+###### To delete a local branch
+`git branch -d branch_name`
+`git branch -D branch_name`
 
+***
+
+###### To delete a remote branch
+`git push <remote_name> --delete <branch_name>`
+###### Note that in most cases the remote name is `origin`
+
+***
 
 
